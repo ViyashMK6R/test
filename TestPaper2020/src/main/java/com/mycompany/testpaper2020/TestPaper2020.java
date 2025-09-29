@@ -28,7 +28,7 @@ public class TestPaper2020 {
 
         // Print report header
         System.out.println("*******************************************************************");
-        System.out.println("SPEEDING FINES REPORT");
+        System.out.println("SPEEDING FINES REPORT for R");
         System.out.println("*******************************************************************\n");
 
         // Print months header
